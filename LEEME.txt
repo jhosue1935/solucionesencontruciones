@@ -1,0 +1,7 @@
+Soluciones en Construcción
+
+Abre index.html para ver la página. La carpeta imagenes contiene todas las ilustraciones locales; mantenla junto al archivo index.html. No depende de Unsplash para mostrar imágenes.
+
+Las ilustraciones son referenciales y deben sustituirse por fotografías reales de los proyectos cuando estén disponibles.
+
+La página aún debe publicarse en un servicio de alojamiento para obtener una dirección pública.
